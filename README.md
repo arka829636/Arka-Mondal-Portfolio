@@ -1,5 +1,7 @@
 # Arka Mondal — Portfolio
 
+🌐 **Live Portfolio:** [Visit My Portfolio](https://arkamondal.vercel.app)
+
 A responsive React + Vite portfolio with a professional dark navy / emerald visual system.
 
 ## Run locally
